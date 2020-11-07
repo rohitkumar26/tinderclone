@@ -1,7 +1,7 @@
 import express from 'express'
 import mongoose from 'mongoose'
 import Cards from './models/dbCards.js'
-import Cors from 'Cors';
+import Cors from 'cors';
 
 
 
